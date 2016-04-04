@@ -15,3 +15,20 @@
 /Users/mitchelljaeger/Desktop/School/Semester 2/Unity/2D Platformer/Temp/bin/Debug/Unity.CecilTools.dll
 /Users/mitchelljaeger/Desktop/School/Semester 2/Unity/2D Platformer/Temp/bin/Debug/Mono.Cecil.Pdb.dll
 /Users/mitchelljaeger/Desktop/School/Semester 2/Unity/2D Platformer/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/mitchelljaeger/Desktop/School/Semester 2/Unity/2D-Platformer-Github/obj/Debug/Assembly-CSharp.dll
+/Users/mitchelljaeger/Desktop/School/Semester 2/Unity/2D-Platformer-Github/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/mitchelljaeger/Desktop/School/Semester 2/Unity/2D-Platformer-Github/Temp/bin/Debug/UnityEngine.dll
+/Users/mitchelljaeger/Desktop/School/Semester 2/Unity/2D-Platformer-Github/Temp/bin/Debug/UnityEditor.dll
+/Users/mitchelljaeger/Desktop/School/Semester 2/Unity/2D-Platformer-Github/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/mitchelljaeger/Desktop/School/Semester 2/Unity/2D-Platformer-Github/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/mitchelljaeger/Desktop/School/Semester 2/Unity/2D-Platformer-Github/Temp/bin/Debug/Mono.Cecil.dll
+/Users/mitchelljaeger/Desktop/School/Semester 2/Unity/2D-Platformer-Github/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/mitchelljaeger/Desktop/School/Semester 2/Unity/2D-Platformer-Github/Temp/bin/Debug/Unity.DataContract.dll
+/Users/mitchelljaeger/Desktop/School/Semester 2/Unity/2D-Platformer-Github/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/mitchelljaeger/Desktop/School/Semester 2/Unity/2D-Platformer-Github/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/mitchelljaeger/Desktop/School/Semester 2/Unity/2D-Platformer-Github/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/mitchelljaeger/Desktop/School/Semester 2/Unity/2D-Platformer-Github/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/mitchelljaeger/Desktop/School/Semester 2/Unity/2D-Platformer-Github/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/mitchelljaeger/Desktop/School/Semester 2/Unity/2D-Platformer-Github/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/mitchelljaeger/Desktop/School/Semester 2/Unity/2D-Platformer-Github/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/mitchelljaeger/Desktop/School/Semester 2/Unity/2D-Platformer-Github/Temp/bin/Debug/Assembly-CSharp.dll

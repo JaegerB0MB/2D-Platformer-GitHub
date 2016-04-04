@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 97fa4856787a346d38f2b7cbb741eb40
+timeCreated: 1459365600
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Humman Runn_0
+    21300002: Humman Runn_1
+    21300004: Humman Runn_2
+    21300006: Humman Runn_3
+    21300008: Humman Runn_4
+    21300010: Humman Runn_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Humman Runn_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -2.5}
+        - {x: -20.5, y: -30.5}
+        - {x: -1.5, y: -29.5}
+        - {x: 1.5, y: -26.5}
+        - {x: 1.5, y: -24.5}
+        - {x: 0.5, y: -34.5}
+        - {x: 0.5, y: -35.5}
+        - {x: 20.5, y: -35.5}
+        - {x: 20.5, y: 29.5}
+        - {x: 19.5, y: 35.5}
+        - {x: -8.5, y: 35.5}
+        - {x: -17.5, y: 26.5}
+    - name: Humman Runn_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 5
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 31}
+        - {x: 24, y: 34}
+        - {x: -16, y: 34}
+        - {x: -25, y: 4}
+        - {x: -25, y: -11}
+        - {x: -21, y: -12}
+        - {x: -16, y: -6}
+        - {x: -25, y: -17}
+        - {x: -25, y: -34}
+        - {x: 25, y: -34}
+    - name: Humman Runn_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 5
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 35}
+        - {x: -23, y: 9}
+        - {x: -23, y: -34}
+        - {x: -17, y: -35}
+        - {x: 23, y: -35}
+        - {x: 23, y: 26}
+        - {x: 17, y: 35}
+    - name: Humman Runn_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 5
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 37}
+        - {x: -14, y: 34}
+        - {x: -21, y: -12}
+        - {x: -21, y: -37}
+        - {x: 8, y: -37}
+        - {x: 21, y: -22}
+        - {x: 21, y: 30}
+        - {x: 10, y: 37}
+    - name: Humman Runn_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 5
+        width: 29
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Humman Runn_5
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 5
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 34}
+        - {x: -23, y: 22}
+        - {x: -23, y: -34}
+        - {x: 22, y: -34}
+        - {x: 23, y: -32}
+        - {x: 23, y: 26}
+        - {x: 13, y: 34}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

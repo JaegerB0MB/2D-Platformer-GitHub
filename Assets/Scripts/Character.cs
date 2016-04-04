@@ -16,6 +16,8 @@ public class Character : MonoBehaviour {
 	float jumpStartTime;
 	public int jumps;
 
+	Animator animator;
+
 	// Use this for initialization
 	void Start () {
 		charTransform = gameObject.transform;

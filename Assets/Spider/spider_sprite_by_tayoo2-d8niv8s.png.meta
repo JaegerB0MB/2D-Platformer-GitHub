@@ -1,0 +1,441 @@
+fileFormatVersion: 2
+guid: 69e5701e09e4e4f4496dda7db1532676
+timeCreated: 1459648454
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spider_sprite_by_tayoo2-d8niv8s_0
+    21300002: spider_sprite_by_tayoo2-d8niv8s_1
+    21300004: spider_sprite_by_tayoo2-d8niv8s_2
+    21300006: spider_sprite_by_tayoo2-d8niv8s_3
+    21300008: spider_sprite_by_tayoo2-d8niv8s_4
+    21300010: spider_sprite_by_tayoo2-d8niv8s_5
+    21300012: spider_sprite_by_tayoo2-d8niv8s_6
+    21300014: spider_sprite_by_tayoo2-d8niv8s_7
+    21300016: spider_sprite_by_tayoo2-d8niv8s_8
+    21300018: spider_sprite_by_tayoo2-d8niv8s_9
+    21300020: spider_sprite_by_tayoo2-d8niv8s_10
+    21300022: spider_sprite_by_tayoo2-d8niv8s_11
+    21300024: spider_sprite_by_tayoo2-d8niv8s_12
+    21300026: spider_sprite_by_tayoo2-d8niv8s_13
+    21300028: spider_sprite_by_tayoo2-d8niv8s_14
+    21300030: spider_sprite_by_tayoo2-d8niv8s_15
+    21300032: spider_sprite_by_tayoo2-d8niv8s_16
+    21300034: spider_sprite_by_tayoo2-d8niv8s_17
+    21300036: spider_sprite_by_tayoo2-d8niv8s_18
+    21300038: spider_sprite_by_tayoo2-d8niv8s_19
+    21300040: spider_sprite_by_tayoo2-d8niv8s_20
+    21300042: spider_sprite_by_tayoo2-d8niv8s_21
+    21300044: spider_sprite_by_tayoo2-d8niv8s_22
+    21300046: spider_sprite_by_tayoo2-d8niv8s_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spider_sprite_by_tayoo2-d8niv8s_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542.25
+        width: 170.66667
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 90.75}
+        - {x: -85.5, y: -90.25}
+        - {x: 85.5, y: -90.25}
+        - {x: 85.5, y: 90.75}
+    - name: spider_sprite_by_tayoo2-d8niv8s_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 542.25
+        width: 170.66667
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 90.75}
+        - {x: -85.5, y: -90.25}
+        - {x: 85.5, y: -90.25}
+        - {x: 85.5, y: 90.75}
+    - name: spider_sprite_by_tayoo2-d8niv8s_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 542.25
+        width: 170.66667
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 90.75}
+        - {x: -85.5, y: -90.25}
+        - {x: 85.5, y: -90.25}
+        - {x: 85.5, y: 90.75}
+    - name: spider_sprite_by_tayoo2-d8niv8s_3
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 542.25
+        width: 170.66667
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 90.75}
+        - {x: -85.5, y: -90.25}
+        - {x: 85.5, y: -90.25}
+        - {x: 85.5, y: 90.75}
+    - name: spider_sprite_by_tayoo2-d8niv8s_4
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 542.25
+        width: 170.66667
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 90.75}
+        - {x: -85.5, y: -90.25}
+        - {x: 85.5, y: -90.25}
+        - {x: 85.5, y: 90.75}
+    - name: spider_sprite_by_tayoo2-d8niv8s_5
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 542.25
+        width: 170.66667
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 90.75}
+        - {x: -85.5, y: -90.25}
+        - {x: 85.5, y: -90.25}
+        - {x: 85.5, y: 90.75}
+    - name: spider_sprite_by_tayoo2-d8niv8s_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 208
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 70, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104, y: 90.5}
+        - {x: -104, y: -90.5}
+        - {x: 104, y: -90.5}
+        - {x: 104, y: 90.5}
+    - name: spider_sprite_by_tayoo2-d8niv8s_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 362
+        width: 187
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 47, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 90.5}
+        - {x: -93.5, y: -90.5}
+        - {x: 93.5, y: -90.5}
+        - {x: 93.5, y: 90.5}
+    - name: spider_sprite_by_tayoo2-d8niv8s_8
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 362
+        width: 146
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 90.5}
+        - {x: -73, y: -90.5}
+        - {x: 73, y: -90.5}
+        - {x: 73, y: 90.5}
+    - name: spider_sprite_by_tayoo2-d8niv8s_9
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 362
+        width: 139
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 4, w: 0}
+      outline:
+      - - {x: -69.5, y: 90.5}
+        - {x: -69.5, y: -90.5}
+        - {x: 69.5, y: -90.5}
+        - {x: 69.5, y: 90.5}
+    - name: spider_sprite_by_tayoo2-d8niv8s_10
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 362
+        width: 196
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 53, w: 0}
+      outline:
+      - - {x: -98, y: 90.5}
+        - {x: -98, y: -90.5}
+        - {x: 98, y: -90.5}
+        - {x: 98, y: 90.5}
+    - name: spider_sprite_by_tayoo2-d8niv8s_11
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 362
+        width: 216
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 78, w: 0}
+      outline:
+      - - {x: -108, y: 90.5}
+        - {x: -108, y: -90.5}
+        - {x: 108, y: -90.5}
+        - {x: 108, y: 90.5}
+    - name: spider_sprite_by_tayoo2-d8niv8s_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182.25
+        width: 170.66667
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 90.75}
+        - {x: -85.5, y: -90.25}
+        - {x: 85.5, y: -90.25}
+        - {x: 85.5, y: 90.75}
+    - name: spider_sprite_by_tayoo2-d8niv8s_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 182.25
+        width: 170.66667
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 90.75}
+        - {x: -85.5, y: -90.25}
+        - {x: 85.5, y: -90.25}
+        - {x: 85.5, y: 90.75}
+    - name: spider_sprite_by_tayoo2-d8niv8s_14
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 182.25
+        width: 170.66667
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 90.75}
+        - {x: -85.5, y: -90.25}
+        - {x: 85.5, y: -90.25}
+        - {x: 85.5, y: 90.75}
+    - name: spider_sprite_by_tayoo2-d8niv8s_15
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 182.25
+        width: 170.66667
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 90.75}
+        - {x: -85.5, y: -90.25}
+        - {x: 85.5, y: -90.25}
+        - {x: 85.5, y: 90.75}
+    - name: spider_sprite_by_tayoo2-d8niv8s_16
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 182.25
+        width: 170.66667
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 90.75}
+        - {x: -85.5, y: -90.25}
+        - {x: 85.5, y: -90.25}
+        - {x: 85.5, y: 90.75}
+    - name: spider_sprite_by_tayoo2-d8niv8s_17
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 182.25
+        width: 170.66667
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 90.75}
+        - {x: -85.5, y: -90.25}
+        - {x: 85.5, y: -90.25}
+        - {x: 85.5, y: 90.75}
+    - name: spider_sprite_by_tayoo2-d8niv8s_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.25
+        width: 170.66667
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 90.75}
+        - {x: -85.5, y: -90.25}
+        - {x: 85.5, y: -90.25}
+        - {x: 85.5, y: 90.75}
+    - name: spider_sprite_by_tayoo2-d8niv8s_19
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2.25
+        width: 170.66667
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 90.75}
+        - {x: -85.5, y: -90.25}
+        - {x: 85.5, y: -90.25}
+        - {x: 85.5, y: 90.75}
+    - name: spider_sprite_by_tayoo2-d8niv8s_20
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2.25
+        width: 170.66667
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 90.75}
+        - {x: -85.5, y: -90.25}
+        - {x: 85.5, y: -90.25}
+        - {x: 85.5, y: 90.75}
+    - name: spider_sprite_by_tayoo2-d8niv8s_21
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2.25
+        width: 170.66667
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 90.75}
+        - {x: -85.5, y: -90.25}
+        - {x: 85.5, y: -90.25}
+        - {x: 85.5, y: 90.75}
+    - name: spider_sprite_by_tayoo2-d8niv8s_22
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2.25
+        width: 170.66667
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 90.75}
+        - {x: -85.5, y: -90.25}
+        - {x: 85.5, y: -90.25}
+        - {x: 85.5, y: 90.75}
+    - name: spider_sprite_by_tayoo2-d8niv8s_23
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 2.25
+        width: 170.66667
+        height: 180.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: 90.75}
+        - {x: -85.5, y: -90.25}
+        - {x: 85.5, y: -90.25}
+        - {x: 85.5, y: 90.75}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
