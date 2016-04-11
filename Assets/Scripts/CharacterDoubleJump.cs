@@ -50,13 +50,14 @@ public class CharacterDoubleJump : MonoBehaviour {
 		}
 
 		charRB.velocity += new Vector2 (0, vVeolocity);
-        animator.SetFloat("hSpeed", hVelocity);
+		animator.SetFloat("hSpeed", Mathf.Abs(hFactor));
         charTransform.position = new Vector2 (hFactor + charTransform.position.x, charTransform.position.y);
 	}
 
    void OnTriggerEnter2D(Collider2D coll){
 		if (coll.CompareTag ("Ground")) {
 			onGround = true;
+			animator.SetBool ("onGround", true);
 			jumps = 0;
 		}
 	}
@@ -64,6 +65,7 @@ public class CharacterDoubleJump : MonoBehaviour {
 	void OnTriggerExit2D(Collider2D coll){
 		if (coll.CompareTag ("Ground")) {
 			onGround = false;
+			animator.SetBool ("onGround", false);
 		}
 	}
 }
